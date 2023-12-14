@@ -1,2 +1,4 @@
-github.com/Ange9/puppy v0.0.0-20231214183952-359bb0f8e41f h1:O0efatvYtanMECkPv5/T62J2uCCX0mw5Khf8FB2FK6g=
-github.com/Ange9/puppy v0.0.0-20231214183952-359bb0f8e41f/go.mod h1:7BxV2ju/WbPJlCgVF9dyvLePGs6ygNmdmqE2dS3ddLo=
+github.com/Ange9/dog v0.0.0-20231214212258-ac2c720a347a h1:QiXZ3mHDiKhDwmRYeOHrpuUfv1fAiWBJmldxZ1bjwGY=
+github.com/Ange9/dog v0.0.0-20231214212258-ac2c720a347a/go.mod h1:4fpcCSMQYPHSMKnuhxIq///e2BSAZGh+qf1t/hrii7g=
+github.com/Ange9/puppy v0.0.0-20231214212729-a8b5c603e13e h1:g3eua/pSbKJLaIhQUc/M/UxjtDLOmbBpDmsb4h8fKMg=
+github.com/Ange9/puppy v0.0.0-20231214212729-a8b5c603e13e/go.mod h1:lRPoaUUtZRjzf+H9/fuLP3q/MEiqvrM6ysw/gSgXQDA=
