@@ -1,0 +1,9 @@
+
+KEYBOARD SHORTCUTS
+
+alt click                           //cursor
+alt + shift + up-down/drag          //copy+paste line
+alt + shift i                       //cursor at the end of each selected line 
+select var + ctrl D (x times)       //select appearance of variables to refactor 
+
+alt + up-down                   //move line up or down
