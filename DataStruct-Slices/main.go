@@ -45,4 +45,25 @@ func main() {
 
 	vs := [][]int{v1, v2}
 	fmt.Println(vs)
+
+	fmt.Println("------Copy slice------------")
+	a1 := []int{0, 1, 2, 3, 4, 5, 6, 7, 8}
+	a2 := a1
+
+	fmt.Println(a1)
+	fmt.Println(a2)
+
+	a1[0] = 7
+	// both get changed, because both are pointing to the same memory address
+	fmt.Println(a1)
+	fmt.Println(a2)
+
+	// instead use copy func
+	a3 := make([]int, 6)
+	copy(a3, a1)
+	a1[1] = 7
+
+	fmt.Println(a1)
+	fmt.Println(a3)
+
 }
